@@ -1,0 +1,20 @@
+#center
+{
+	width: 60%;
+	text-align: center;
+}
+#name
+{
+	float: left;
+	width: 85%;
+	height: 40px;
+
+}
+#btnAdd
+{
+	width: 15%;
+}
+.error
+{
+	color: red;
+}
